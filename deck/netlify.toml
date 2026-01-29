@@ -1,0 +1,9 @@
+[build]
+  base = "deck"
+  command = "npm ci && npm run build"
+  publish = "deck/dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
