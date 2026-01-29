@@ -1,0 +1,5 @@
+{
+  "name": "SafetyGraph Mining Deck Player",
+  "description": "Une plateforme de présentation interactive pour SafetyGraph Mining, incluant des diapositives, des notes d'orateur et une simulation de démo guidée pour le secteur minier.",
+  "requestFramePermissions": []
+}
