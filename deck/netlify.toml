@@ -1,7 +1,6 @@
 [build]
-  base = "deck"
   command = "npm ci && npm run build"
-  publish = "deck/dist"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"
